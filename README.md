@@ -19,7 +19,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharma21deepti&" alt="sharma21deepti" /></p>
 
 
-[![Deepti's github activity graph](https://activity-graph.herokuapp.com/graph?username=sharma21deepti&bg_color=ffffff&color=080808&line=ad34a5&point=29093e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sharma21deepti&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">Connect with me on linkedin 🔗</h3>
 <p align="center">
