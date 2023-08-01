@@ -16,7 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sharma21deepti&theme=nightowl&hide_border=false)<br/>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sharma21deepti&bg_color=011627&color=a058d0&line=a33be8&point=f7e491&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
